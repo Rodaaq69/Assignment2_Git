@@ -1,1 +1,1 @@
-Brief introduction to my Git project.
+Updated from GitHub by a teammate.
